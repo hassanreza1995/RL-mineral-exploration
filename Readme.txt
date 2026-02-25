@@ -39,6 +39,7 @@ This study implements and compares five machine learning approaches for copper e
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/[YOUR-USERNAME]/RL-mineral-exploration.git
+   
+   git https://github.com/hassanreza1995/RL-mineral-exploration
+
    cd RL-mineral-exploration
